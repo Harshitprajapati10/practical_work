@@ -1,6 +1,12 @@
 public class problem8{
     public static void main(String[] args) {
-        //p8->WAF to count no.of words in a string
+        //p8->WAF to reverse characters in a string
+        String str1 = "harshit stark";
+        String reversedStr = reverseString(str1);
+        System.out.println("Original string: " + str1);
+        System.out.println("Reversed string: " + reversedStr);
+
+        // ###-> calculate no.of words in a string
         String str = "hello world this is java";
         int wordCount = countWords(str);
         System.out.println("In the string \"" + str + "\":");
@@ -23,5 +29,13 @@ public class problem8{
             }
         }
         return count;
+    }
+
+    public static String reverseString(String str){
+        StringBuilder reversed = new StringBuilder();
+        for (int i = str.length() - 1; i >= 0; i--) {
+            reversed.append(str.charAt(i));
+        }
+        return reversed.toString();
     }
 }
