@@ -24,3 +24,9 @@ int main() {
 
 
 // Q) WAF to calculate the frequency of each charaacter in a string
+
+
+
+/*
+q)) wAP THAT PERFORMS THE FOLLOWING OPERATIONS ON A DYNAMIC ARRAY
+ */
