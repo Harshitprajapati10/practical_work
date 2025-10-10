@@ -30,3 +30,18 @@ class MergeSort:
 first = [1,3,8,9,4,7,2, 3, 4, 6, 6]
 obj = MergeSort()
 print(obj.merge_sort(first))
+
+
+
+# what is inheritance in java
+# syntax and special keywords for inheritance in java
+# write a code to implement the fundamental operation of addition, sub, mul, div by incoroporation the idea of inheritance in java (create two classes one is parent class and other is child class)
+# what is multilevel inheritance in java
+
+# write a java program to implement multiple iheritance as shown below
+# class A
+# HAVING MEMBER VARIABLES AND MEMBER METHODS-calculate  DA->dearness allowance 35%
+# class B->having member variables and member methods-calculate HRA->house rent allowance 18%
+# class C extended from class A and class B excepts basic salary and calulate DA and HRA and finally the net salary
+
+
