@@ -22,10 +22,10 @@ public class problem5{
     }
     public static void rotateArray(int[] arr, int k) {
         int n = arr.length;
-        k = k % n; // In case k is greater than n
-        reverse(arr, 0, n - 1); // Reverse the entire array
-        reverse(arr, 0, k - 1); // Reverse the first k elements
-        reverse(arr, k, n - 1); // Reverse the remaining n-k elements
+        k = k % n; 
+        reverse(arr, 0, n - 1); 
+        reverse(arr, 0, k - 1);
+        reverse(arr, k, n - 1); 
     }
     private static void reverse(int[] arr, int start, int end) {
         while (start < end) {

@@ -1,0 +1,41 @@
+[33mcommit caad1ab278e2e89c6d3f084156d17bb176859dad[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Harshit Prajapati <143312448+Harshitprajapati10@users.noreply.github.com>
+Date:   Fri Oct 10 06:26:47 2025 +0000
+
+    margesortadded
+
+[33mcommit b23d77d8bbf11eaa568f59a3e08e7df8dbecb680[m
+Author: Harshit Prajapati <143312448+Harshitprajapati10@users.noreply.github.com>
+Date:   Sat Sep 27 06:16:41 2025 +0000
+
+    linked list adde
+
+[33mcommit 57547e61a5d510518b94eaf8470a12f991747a6e[m
+Author: Harshit Prajapati <143312448+Harshitprajapati10@users.noreply.github.com>
+Date:   Sat Sep 27 05:12:57 2025 +0000
+
+    jkdfjdslk.
+
+[33mcommit 39294bcdb0a7d7087ea344f688984f731bb1f0c6[m
+Author: Harshit Prajapati <143312448+Harshitprajapati10@users.noreply.github.com>
+Date:   Sat Sep 20 06:27:24 2025 +0000
+
+    daytwo
+
+[33mcommit 47cfa75ee100e67e0177fb251ab71720324358ce[m
+Author: Harshit Prajapati <143312448+Harshitprajapati10@users.noreply.github.com>
+Date:   Fri Sep 19 07:10:37 2025 +0000
+
+    11
+
+[33mcommit 3b426d927e27f3154e3ed3fec7bc3fec0daa8a72[m
+Author: Harshit Prajapati <143312448+Harshitprajapati10@users.noreply.github.com>
+Date:   Fri Sep 19 06:05:04 2025 +0000
+
+    eight problems solved
+
+[33mcommit 2849d0241a4181b8c2fa14cd6135d4a749ce5669[m
+Author: Harshit Prajapati <143312448+Harshitprajapati10@users.noreply.github.com>
+Date:   Fri Sep 19 10:02:02 2025 +0530
+
+    Initial commit
