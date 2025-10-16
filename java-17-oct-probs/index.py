@@ -3,7 +3,7 @@
 # write a code to implement the fundamental operation of addition, sub, mul, div by incoroporation the idea of inheritance in java (create two classes one is parent class and other is child class)
 # what is multilevel inheritance in java
 
-# write a java program to implement multiple iheritance as shown below
+# write a java program to implement multiple inheritance as shown below
 # class A
 # HAVING MEMBER VARIABLES AND MEMBER METHODS-calculate  DA->dearness allowance 35%
 # class B->having member variables and member methods-calculate HRA->house rent allowance 18%
