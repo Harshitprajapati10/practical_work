@@ -23,3 +23,6 @@ public class problem04{
         A.makeSound();
     }
 }
+
+// child c = new parent() -> compile time error
+// parent p = new child() -> valid --> check method in parent class first, if found then check in child class., if overridden then call child class method
