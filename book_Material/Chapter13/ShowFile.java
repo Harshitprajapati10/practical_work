@@ -45,5 +45,25 @@ public class ShowFile {
         } catch (IOException e) {
             System.out.println("An I/O Error Occurred");
         }
+
+        // convert inputstream to bytearray
+        int j;
+        byte[] B = new byte[1024];
+        int index = 0;
+        try (FileInputStream fis = new FileInputStream("Test.txt")) {
+            while ((j = fis.read()) != -1) {
+                B[index++] = (byte) j;
+            }
+
+        } catch (FileNotFoundException e) {
+            System.out.println("File Not Found.");
+        } catch (IOException e) {
+            System.out.println("An I/O Error Occurred");
+        }
+
+        System.out.println("Bytes read = " + index);
+        for (int k = 0; k < index; k++) {
+            System.out.print(B[k] + " ");
+        }
     }
 }
